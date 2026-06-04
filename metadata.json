@@ -1,0 +1,9 @@
+{
+  "name": "Lightshot Web Capturer",
+  "description": "Una aplicación web interactiva que simula de forma idéntica la herramienta Lightshot para tomar, congelar, recortar, anotar y guardar capturas de pantalla.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
